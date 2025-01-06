@@ -2,14 +2,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===============================================================================================================================================
 
 Hi, I’m Adarsh – a passionate Senior Software Engineer based in Vancouver, Canada. I thrive on crafting intuitive and impactful web experiences, with expertise in frontend development, particularly React and Next.js. 
-💻 I work full-time as a senior engineer, but my love for learning and building doesn’t stop there. I dedicate my weekends to: 
+💻 I work full-time as a senior engineer, but my love for learning and building doesn’t stop there. 
+
+I dedicate my weekends to: 
 * 🌱 Learning new technologies (currently exploring Python) 
 * 🛠️ Building innovative apps 
 * 🤝 Collaborating with like-minded developers 
 * 💼 Freelancing to solve real-world challenges 
 * 📫   You can contact me at [adarshem@gmail.com](mailto:adarshem@gmail.com)
   
-I’m always looking for opportunities to grow, collaborate, and create something amazing. Let’s connect and build the future together! 🚀
+I always seek opportunities to grow, collaborate, and create something amazing. Let’s connect and build the future together! 🚀
 
 ### Skills
 
